@@ -48,7 +48,7 @@
       "password": "123456",
       "name": "Əlinemət",
       "surname": "İsiyev",
-      "age": 18,
+      "birthday": "1999-07-03",
       "mobile": "+9876543210",
       "cityId": 1
     },
@@ -58,7 +58,7 @@
       "password": "123456",
       "name": "Nigar",
       "surname": "Məmmədova",
-      "age": 21,
+      "birthday": "1999-07-03",
       "mobile": "+9876543210",
       "cityId": 1
     },
@@ -68,7 +68,7 @@
       "password": "123456",
       "name": "İsmayil",
       "surname": "Qasimov",
-      "age": 19,
+      "birthday": "1999-07-03",
       "mobile": "+9876543210",
       "cityId": 1
     },
@@ -78,7 +78,7 @@
       "password": "123456",
       "name": "Fidan",
       "surname": "Abbasova",
-      "age": 23,
+      "birthday": "1999-07-03",
       "mobile": "+9876543210",
       "cityId": 1
     }
