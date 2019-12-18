@@ -108,7 +108,7 @@
       "speciesId": 2,
       "cityId": 1,
       "userId": 2,
-      "date": "2011-07-13 13:55:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": false
     },
     {
@@ -121,7 +121,7 @@
       "speciesId": 1,
       "cityId": 1,
       "userId": 1,
-      "date": "2019-07-93 19:05:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": false,
       "ownerId": 4
     },
@@ -135,7 +135,7 @@
       "speciesId": 1,
       "cityId": 1,
       "userId": 2,
-      "date": "2011-07-13 13:55:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": true
     },
     {
@@ -148,7 +148,7 @@
       "speciesId": 2,
       "cityId": 1,
       "userId": 3,
-      "date": "2019-07-93 19:05:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": true
     },
     {
@@ -161,7 +161,7 @@
       "speciesId": 1,
       "cityId": 1,
       "userId": 2,
-      "date": "2011-07-13 13:55:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": true
     },
     {
@@ -174,7 +174,7 @@
       "speciesId": 1,
       "cityId": 1,
       "userId": 3,
-      "date": "2019-07-93 19:05:29 +0100",
+      "date": "18-12-2019 21:09:08",
       "active": true
     }
   ],
@@ -184,7 +184,7 @@
       "postId": 1,
       "userId": 3,
       "content": "So cute",
-      "date": "2019-07-93 19:05:29 +0100"
+      "date": "18-12-2019 21:09:08"
     },
     {
       "id": 2,
@@ -198,14 +198,14 @@
       "postId": 1,
       "userId": 3,
       "content": "So sweet",
-      "date": "2019-07-93 19:05:29 +0100"
+      "date": "18-12-2019 21:09:08"
     },
     {
       "id": 4,
       "postId": 6,
       "userId": 4,
       "content": "I want to adopt",
-      "date": "2019-07-93 19:05:29 +0100"
+      "date": "18-12-2019 21:09:08"
     }
   ]
 }
