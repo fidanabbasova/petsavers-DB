@@ -43,7 +43,7 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "email": "nemat@gmil.com",
       "password": "123456",
       "name": "Əlinemət",
@@ -53,7 +53,7 @@
       "cityId": 1
     },
     {
-      "id": 2,
+      "id": "2",
       "email": "nigar@gmil.com",
       "password": "123456",
       "name": "Nigar",
@@ -63,7 +63,7 @@
       "cityId": 1
     },
     {
-      "id": 3,
+      "id": "3",
       "email": "ismayil@gmil.com",
       "password": "123456",
       "name": "İsmayil",
@@ -73,7 +73,7 @@
       "cityId": 1
     },
     {
-      "id": 4,
+      "id": "4",
       "email": "fidan@gmil.com",
       "password": "123456",
       "name": "Fidan",
