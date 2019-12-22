@@ -16,7 +16,7 @@
   "users": [
     {
       "id": "1",
-      "email": "nemat@gmil.com",
+      "email": "nemat@gmail.com",
       "password": "123456",
       "name": "Əlinemət",
       "surname": "İsiyev",
@@ -26,7 +26,7 @@
     },
     {
       "id": "2",
-      "email": "nigar@gmil.com",
+      "email": "nigar@gmail.com",
       "password": "123456",
       "name": "Nigar",
       "surname": "Məmmədova",
@@ -36,7 +36,7 @@
     },
     {
       "id": "3",
-      "email": "ismayil@gmil.com",
+      "email": "ismayil@gmail.com",
       "password": "123456",
       "name": "İsmayil",
       "surname": "Qasimov",
@@ -46,7 +46,7 @@
     },
     {
       "id": "4",
-      "email": "fidan@gmil.com",
+      "email": "fidan@gmail.com",
       "password": "123456",
       "name": "Fidan",
       "surname": "Abbasova",
